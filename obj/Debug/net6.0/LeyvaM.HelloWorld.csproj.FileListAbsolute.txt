@@ -1,0 +1,15 @@
+/Users/manuel/Documents/LeyvaM.HelloWorld/bin/Debug/net6.0/LeyvaM.HelloWorld
+/Users/manuel/Documents/LeyvaM.HelloWorld/bin/Debug/net6.0/LeyvaM.HelloWorld.deps.json
+/Users/manuel/Documents/LeyvaM.HelloWorld/bin/Debug/net6.0/LeyvaM.HelloWorld.runtimeconfig.json
+/Users/manuel/Documents/LeyvaM.HelloWorld/bin/Debug/net6.0/LeyvaM.HelloWorld.dll
+/Users/manuel/Documents/LeyvaM.HelloWorld/bin/Debug/net6.0/LeyvaM.HelloWorld.pdb
+/Users/manuel/Documents/LeyvaM.HelloWorld/obj/Debug/net6.0/LeyvaM.HelloWorld.csproj.AssemblyReference.cache
+/Users/manuel/Documents/LeyvaM.HelloWorld/obj/Debug/net6.0/LeyvaM.HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manuel/Documents/LeyvaM.HelloWorld/obj/Debug/net6.0/LeyvaM.HelloWorld.AssemblyInfoInputs.cache
+/Users/manuel/Documents/LeyvaM.HelloWorld/obj/Debug/net6.0/LeyvaM.HelloWorld.AssemblyInfo.cs
+/Users/manuel/Documents/LeyvaM.HelloWorld/obj/Debug/net6.0/LeyvaM.HelloWorld.csproj.CoreCompileInputs.cache
+/Users/manuel/Documents/LeyvaM.HelloWorld/obj/Debug/net6.0/LeyvaM.HelloWorld.dll
+/Users/manuel/Documents/LeyvaM.HelloWorld/obj/Debug/net6.0/refint/LeyvaM.HelloWorld.dll
+/Users/manuel/Documents/LeyvaM.HelloWorld/obj/Debug/net6.0/LeyvaM.HelloWorld.pdb
+/Users/manuel/Documents/LeyvaM.HelloWorld/obj/Debug/net6.0/LeyvaM.HelloWorld.genruntimeconfig.cache
+/Users/manuel/Documents/LeyvaM.HelloWorld/obj/Debug/net6.0/ref/LeyvaM.HelloWorld.dll
