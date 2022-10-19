@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/manuel/Documents/LeyvaM.HelloWorld/LeyvaM.HelloWorld.csproj": {}
+    "/Users/arelymartinez/Desktop/GitRepository/LeyvaM.HelloWorld/LeyvaM.HelloWorld.csproj": {}
   },
   "projects": {
-    "/Users/manuel/Documents/LeyvaM.HelloWorld/LeyvaM.HelloWorld.csproj": {
+    "/Users/arelymartinez/Desktop/GitRepository/LeyvaM.HelloWorld/LeyvaM.HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/manuel/Documents/LeyvaM.HelloWorld/LeyvaM.HelloWorld.csproj",
+        "projectUniqueName": "/Users/arelymartinez/Desktop/GitRepository/LeyvaM.HelloWorld/LeyvaM.HelloWorld.csproj",
         "projectName": "LeyvaM.HelloWorld",
-        "projectPath": "/Users/manuel/Documents/LeyvaM.HelloWorld/LeyvaM.HelloWorld.csproj",
-        "packagesPath": "/Users/manuel/.nuget/packages/",
-        "outputPath": "/Users/manuel/Documents/LeyvaM.HelloWorld/obj/",
+        "projectPath": "/Users/arelymartinez/Desktop/GitRepository/LeyvaM.HelloWorld/LeyvaM.HelloWorld.csproj",
+        "packagesPath": "/Users/arelymartinez/.nuget/packages/",
+        "outputPath": "/Users/arelymartinez/Desktop/GitRepository/LeyvaM.HelloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/manuel/.nuget/NuGet/NuGet.Config"
+          "/Users/arelymartinez/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
